@@ -1,0 +1,11 @@
+# OS generated files
+.DS_Store
+
+# IDE generated files
+.idea
+
+# Node.js generated files
+node_modules
+
+# Build generated files
+build
