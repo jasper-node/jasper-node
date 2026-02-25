@@ -6,8 +6,8 @@ Creating new posts on [Issues page](https://github.com/jasper-node/jasper-node/i
 
 ## Getting Started
 
-Head over to [our website](https://www.jasperx.com.au/how-to-use/download) to download and try out on your PC with asking AI to simulate data for the connectors.
+Head over to [our website](https://www.jasperx.com.au/download) to download and try out on your PC with asking AI to simulate data for the connectors.
 
 ## Features
 
-[See here](https://www.jasperx.com.au/how-to-use/docs) for more info on JasperNode's features.
+[See here](https://www.jasperx.com.au/docs) for more info on JasperNode's features.
